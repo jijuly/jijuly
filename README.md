@@ -1,18 +1,17 @@
+<div>
+  <img align="center" height="250" width="100%" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1630094368745-GB8NVYEVVHB2UKX8Y3FU/final+with+character+in+window.gif" />
+</div>
 <h1 align="center">Hiiii, I'm Julia</h1>
 <img align="right"  height="100" width="100" src="https://64.media.tumblr.com/03a79184a3d376a4cd250abaf797286e/fcb07ab20b2549c4-22/s1280x1920/809ceab2a1ed14494bd0811631c7b5126083ef2f.gif">
 <h3 align="center"> a junior developer, from Brazil.</h3>
-<p align="left">
-  <p>
-    <strong>
-      You can contact me through:
-    </strong>
-  </p>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juliavmello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliavmello/" height="30" width="40" /></a>
 <a href="https://instagram.com/bejulyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bejulyz" height="30" width="40" /></a>
-<a href="https://instagram.com/bejulyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bejulyz" height="30" width="40" /></a>
+<a href="https://discord.gg/jijuly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jijuly" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/katmyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="jijuly" height="30" width="40" /></a>
 </p>
 <br>
-<div>
+<div align="center">
 <picture>
 <source
 srcset="https://github-readme-stats.vercel.app/api?username=jijuly&show_icons=true&theme=midnight-purple"
@@ -38,12 +37,10 @@ media="(prefers-color-scheme: dark)"
   <img src="https://github-readme-stats.vercel.app/api?username=jijuly&show_icons=true" />
 </picture>
 </div>
-<div>
-  
-</div>
 
 
-<div style="display: inline_block"><br>
+<br>
+<div style="display: inline_block" align="right"><br>
   <p>
     <strong>
       Welcome to my profile! Feel free to browse. <br>
@@ -51,12 +48,13 @@ media="(prefers-color-scheme: dark)"
     </strong>
   </p>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+<img align="left" height="180" width="180" src="https://i.redd.it/1ys48ttagu491.gif">
 </div>
 
 
