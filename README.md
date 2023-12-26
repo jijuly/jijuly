@@ -3,7 +3,8 @@
 </div>
 <h1 align="center">Hiiii, I'm Julia</h1>
 <img align="right"  height="100" width="100" src="https://64.media.tumblr.com/03a79184a3d376a4cd250abaf797286e/fcb07ab20b2549c4-22/s1280x1920/809ceab2a1ed14494bd0811631c7b5126083ef2f.gif">
-<h3 align="center"> a junior developer, from Brazil.</h3>
+<h3 align="center"> a junior full stack developer.  <br>
+  Computer Science studying — UAM</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juliavmello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliavmello/" height="30" width="40" /></a>
 <a href="https://instagram.com/bejulyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bejulyz" height="30" width="40" /></a>
