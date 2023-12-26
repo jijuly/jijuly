@@ -54,6 +54,7 @@ media="(prefers-color-scheme: dark)"
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <br>
 <img align="left" height="180" width="180" src="https://i.redd.it/1ys48ttagu491.gif">
 </div>
 
