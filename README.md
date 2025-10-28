@@ -8,7 +8,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juliavmello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliavmello/" height="30" width="40" /></a>
 <a href="https://instagram.com/bejulyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bejulyz" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/katmyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="jijuly" height="30" width="40" /></a>
 </p>
 <br>
 <div align="center">
